@@ -3,11 +3,11 @@
 This project demonstrates the implementation of basic Natural Language Processing (NLP) techniques using Machine Learning. It includes text preprocessing, feature extraction, model training, and evaluation for text classification tasks.
 
 # Features:
-Text cleaning and preprocessing\n
-Tokenization & stopword removal\n
-TF-IDF / Count Vectorization\n
-Machine Learning model implementation\n
-Model evaluation and prediction\\n
+Text cleaning and preprocessing
+Tokenization & stopword removal
+TF-IDF / Count Vectorization
+Machine Learning model implementation
+Model evaluation and prediction
 # Technologies Used
 Python
 Scikit-learn
